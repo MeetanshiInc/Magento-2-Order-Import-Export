@@ -4,7 +4,7 @@ Data is the new currency that fuels the current digital world. Maintaining custo
 
 Therefore, it becomes vital for eCommerce businesses to ensure that no customers’ data is lost during migration from other eCommerce platforms or older versions. It can be tedious for the store owners to manage the orders data while migrating or upgrading the Magento stores.
 
-Therefore, Meetanshi has developed a***[Magento 2 Order Import Export](https://meetanshi.com/magento-2-order-import-export.html)*** extension that can successfully export and import the stores’ order data in a CSV format to make sure you never lose even a bit of data during the upgrade.
+Therefore, Meetanshi has developed a ***[Magento 2 Order Import Export](https://meetanshi.com/magento-2-order-import-export.html)*** extension that can successfully export and import the stores’ order data in a CSV format to make sure you never lose even a bit of data during the upgrade.
 
 It also facilitates the services like invoicing, memo generation, and other order-related stuff.
 
